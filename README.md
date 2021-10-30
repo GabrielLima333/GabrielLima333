@@ -1,3 +1,5 @@
+### Hello there! <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
+
 <img src="https://64.media.tumblr.com/1eb4adf7ff52bda1cf639e125649c137/tumblr_nf3hgw0aBu1si4e7ko1_500.gif">
 
 ```javascript
@@ -32,3 +34,8 @@ console.log("Eu sou o júpiter :)");
 <img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-768x1428.png" alt="java" width="40" height="40"/>
 </a>
 </p>
+
+### Little info
+![Profile views](https://komarev.com/ghpvc/?username=MokuseiDev)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MokuseiDev&count_private=true&include_all_commits=true&show_icons=true)
