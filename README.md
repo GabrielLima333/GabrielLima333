@@ -1,7 +1,13 @@
 ### Hello there! <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
 
-```javascript
-console.log("Eu sou o júpiter :)");
+```js
+const main = async () => {
+  console.log('Os limites só existem se você os deixar existir.');
+};
+
+module.exports = {
+  main
+};
 ```
 
 - 👋 Hi, I’m **@MokuseiDev**
