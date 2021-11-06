@@ -1,4 +1,4 @@
-### Hello there! <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
+### I'm Mokusei <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
 
 ```js
 module.exports = async () => {
@@ -11,30 +11,15 @@ module.exports = async () => {
 - 🌱 I’m currently learning **Koltlin**
 - 🔭 I'm currently producing contents for **Minecraft Bedrock Engine/Edition**.
 - 📫 How to reach me **mokuseidev@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/bootstrap/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/js/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/php/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/kotlin/index.php" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" alt="koltlin" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/java/" target="_blank">
-<img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-768x1428.png" alt="java" width="40" height="40"/>
-</a>
-</p>
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="koltlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</div><br/>
 
 ### Little info
 ![Profile views](https://komarev.com/ghpvc/?username=MokuseiDev)
