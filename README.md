@@ -7,7 +7,7 @@ module.exports = async () => {
 
 ```
 
-- :computer: I'm Front-End and Back-End Developer!
+- :computer: I'm a front-end, back-end and mobile developer.
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything.
 
