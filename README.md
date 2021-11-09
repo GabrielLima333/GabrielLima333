@@ -22,9 +22,9 @@ module.exports = async () => {
 
 ### About me
 <div style="display: inline_block">
-  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img align="center" alt="instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  <img align="center" alt="twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="mailto:mokuseidev@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/mokuseidev"><img align="center" alt="instagram" src="https://img.shields.io/badge/@mokuseidev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/MokuseiDev"><img align="center" alt="twitter" src="https://img.shields.io/badge/@MokuseiDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </div><br/>
 
 ### Little info
