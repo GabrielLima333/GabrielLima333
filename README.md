@@ -30,4 +30,6 @@ module.exports = async () => {
 ### Little info
 ![Profile views](https://komarev.com/ghpvc/?username=MokuseiDev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MokuseiDev&count_private=true&include_all_commits=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MokuseiDev&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokuseiDev&layout=compact&theme=dark)
