@@ -1,4 +1,4 @@
-### I'm Mokusei <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
+### I'm Gabriel Lima <img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=24/>
 
 ```js
 module.exports = async () => {
@@ -23,13 +23,13 @@ module.exports = async () => {
 ### About me
 <div style="display: inline_block">
   <a href="mailto:mokuseidev@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/mokuseidev"><img align="center" alt="instagram" src="https://img.shields.io/badge/@mokuseidev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/MokuseiDev"><img align="center" alt="twitter" src="https://img.shields.io/badge/@MokuseiDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/gabriel__yeah"><img align="center" alt="instagram" src="https://img.shields.io/badge/@gabriel__yeah-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/GabrielAplok"><img align="center" alt="twitter" src="https://img.shields.io/badge/@GabrielAplok-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </div><br/>
 
 ### Little info
 ![Profile views](https://komarev.com/ghpvc/?username=MokuseiDev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MokuseiDev&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielLima333&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokuseiDev&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima333&layout=compact&theme=dark)
